@@ -21,4 +21,4 @@ Thumbs.db
 *.swp
 *.tmp
 
-librepcb/output/*/*.pdf
+output/*/*.pdf
